@@ -1,8 +1,8 @@
-# 🧠 Tool / Skill Research Report
+# Tool / Skill Research Report
 
 ---
 
-## 🪪 Basic Information
+## Basic Information
 
 | Field | Details |
 |-------|----------|
@@ -11,10 +11,10 @@
 | **Role** | _e.g., Backend Developer / NLP Researcher / DevOps Engineer_ |
 | **Tool / Skill** | _e.g., LangChain, FastAPI, ChromaDB, Docker, etc._ |
 | **Date** | _DD Month YYYY (e.g., 11 October 2025)_ |
-
+| **Links / Sources** | [Official Docs](https://www.langchain.com/) · [GitHub Repo](https://github.com/hwchase17/langchain) · [YouTube Tutorial](https://www.youtube.com/) |
 ---
 
-## 🔍 1. Overview  
+## 1. Overview  
 Provide a concise explanation of what this tool or skill is.  
 - What problem does it solve?  
 - What is its main purpose or use case?  
@@ -25,7 +25,7 @@ Provide a concise explanation of what this tool or skill is.
 
 ---
 
-## ⚙️ 2. Core Features & Capabilities  
+## 2. Core Features & Capabilities  
 List and briefly describe the main features or components of the tool.
 
 > _Example:_  
@@ -35,7 +35,7 @@ List and briefly describe the main features or components of the tool.
 
 ---
 
-## 🧩 3. Role in Our Project  
+## 3. Role in Our Project  
 Explain how this tool contributes to or enhances the **AI Knowledge Management Agent** system.  
 - Which subsystem it affects (API, data, AI pipeline, etc.)  
 - Why it was chosen  
@@ -46,7 +46,7 @@ Explain how this tool contributes to or enhances the **AI Knowledge Management A
 
 ---
 
-## 🧰 4. Installation / Setup Guide  
+## 4. Installation / Setup Guide  
 Document how to install and configure this tool.  
 Include terminal commands, environment variables, or configuration steps.
 
