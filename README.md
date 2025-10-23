@@ -7,17 +7,17 @@
 | Field               | Details                                                                                                                                                                                                                 |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Name**            | Samer Ahmed                                                                                                                                                                                                             |
-| **Project**         | AI Knowledge Management Agent                                                                                                                                                                                           |
+| **Project**         | AI Knowledge Management Agent                                                                                                                                                                                          |
 | **Role**            | Backend Developer                                                                                                                                                                                       |
 | **Tool / Skill**    | ChromaDB                                                                                                                                                                                                                |
 | **Date**            | 12 October 2025                                                                                                                                                                                                         |
-| **Links / Sources** | [Official Docs](https://docs.trychroma.com/) · [GitHub Repo](https://github.com/chroma-core/chroma) · [YouTube Tutorial](https://www.youtube.com/watch?v=QSW2L8dkaZk&list=PL58zEckBH8fA-R1ifTjTIjrdc3QKSk6hI)· [LangChain Docs](https://python.langchain.com/) |
+| **Links / Sources** | [Official Docs](https://docs.trychroma.com/) · [GitHub Repo](https://github.com/chroma-core/chroma) · [YouTube Tutorial](https://www.youtube.com/watch?v=QSW2L8dkaZk&list=PL58zEckBH8fA-R1ifTjTIjrdc3QKSk6hI)· [LangChain Docs](https://python.langchain.com/) | [Data Camp](https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide)
 
 ---
 
 ## 1. Overview
 
-**ChromaDB** (commonly known as **Chroma**) is an open-source **vector database** that specializes in storing and retrieving **embeddings** — numerical representations of text, images, or structured data.
+**ChromaDB** is an open-source **vector database** that specializes in storing and retrieving **embeddings** — numerical representations of text, images, or structured data.
 
 * **What problem does it solve?**
   Traditional databases can only perform exact text or ID lookups. ChromaDB enables **semantic similarity search**, meaning it can find information that’s conceptually related, not just textually identical.
@@ -55,7 +55,7 @@
 **ChromaDB’s Role:**
 ChromaDB is the **vector database** powering the AI Knowledge Management Agent’s contextual memory. It stores document embeddings and retrieves relevant knowledge when users ask questions or reference past information.
 
-**Why It Was Chosen:**
+**Why its useful:**
 
 * Simple integration with LangChain and OpenAI models.
 * Free, open-source, and privacy-friendly (can run locally).
