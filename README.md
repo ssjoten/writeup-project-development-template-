@@ -10,8 +10,8 @@
 | **Project**         | AI Knowledge Management Agent                                                                                                                                                                                           |
 | **Role**            | Backend Developer                                                                                                                                                                                       |
 | **Tool / Skill**    | ChromaDB                                                                                                                                                                                                                |
-| **Date**            | 23 October 2025                                                                                                                                                                                                         |
-| **Links / Sources** | [Official Docs](https://docs.trychroma.com/) · [GitHub Repo](https://github.com/chroma-core/chroma) · [YouTube Tutorial](https://www.youtube.com/watch?v=I2mO2CFRY3g),(https://www.youtube.com/watch?v=QSW2L8dkaZk&list=PL58zEckBH8fA-R1ifTjTIjrdc3QKSk6hI)· [LangChain Docs](https://python.langchain.com/) |
+| **Date**            | 12 October 2025                                                                                                                                                                                                         |
+| **Links / Sources** | [Official Docs](https://docs.trychroma.com/) · [GitHub Repo](https://github.com/chroma-core/chroma) · [YouTube Tutorial](https://www.youtube.com/watch?v=QSW2L8dkaZk&list=PL58zEckBH8fA-R1ifTjTIjrdc3QKSk6hI)· [LangChain Docs](https://python.langchain.com/) |
 
 ---
 
