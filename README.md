@@ -114,19 +114,6 @@ results = collection.query(
 
 print(results)
 ```
-
-### **LangChain Integration Example**
-
-```python
-from langchain.vectorstores import Chroma
-from langchain.embeddings.openai import OpenAIEmbeddings
-
-embeddings = OpenAIEmbeddings()
-db = Chroma(persist_directory="chroma_db", embedding_function=embeddings)
-
-retriever = db.as_retriever()
-```
-
 ---
 
 
